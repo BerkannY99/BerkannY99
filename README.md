@@ -1,4 +1,3 @@
- [![MasterHead]https://www.instagram.com/berkanny99/p/DBdprAwMDg63WsgYjQWkLXPPTTIWC9DmvqHskc0
 
 <h1 align="center">Hi 👋, I'm Berkan Yumrukaya</h1>
 <h3 align="center">A passionate full-stack developer from turkey</h3>
